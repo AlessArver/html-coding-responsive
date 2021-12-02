@@ -6,6 +6,6 @@
 yarn start
 ```
 
-![Screenshot](./readmeLarge.png)
-![Screenshot](./readmeMedium.png)
-![Screenshot](./readmeSmall.png)
+![Screenshot](./readmeImageLarge.png)
+![Screenshot](./readmeImageMedium.png)
+![Screenshot](./readmeImageSmall.png)
