@@ -1,4 +1,4 @@
-### https://alessarver.github.io/test-task-html-coding-responsive/
+### https://alessarver.github.io/html-coding-responsive/
 
 ### Build commands
 
